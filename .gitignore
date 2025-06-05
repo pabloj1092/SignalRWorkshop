@@ -1,0 +1,48 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/contentModel.xml
+/projectSettingsUpdater.xml
+/.idea.atlas-Notification-ms.iml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+## Build artifacts
+bin/
+obj/
+out/
+## Rider
+.idea/
+*.sln.iml
+## VS Code
+.vscode/
+## ASP.NET-specific
+appsettings.*.local.json
+secrets.json
+## .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+*.db
+*.pdb
+## Logs
+*.log
+## Test results
+TestResults/
+coverage/
+*.coverage
+*.coveragexml
+## OS generated files
+.DS_Store
+Thumbs.db
+## NuGet packages
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+## Resharper
+*.DotSettings.user
